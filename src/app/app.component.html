@@ -1,0 +1,60 @@
+<div>
+  <div class="header" style="width:100%">
+    <span style="float:left">
+      <button ejs-button class="customBtn" iconCss="e-icons e-menu" (click)="menuBtnClk()">Language</button>
+    </span>
+    <span >Header</span>
+  </div>
+  <ejs-sidebar width="250" position="Left" [isOpen]="toggleSidebar" [enableDock]="true" [dockSize]="72" type="Auto">
+    <div class="sidebar-content">
+      <ejs-listview [dataSource]="listData" [fields]="listFields" (select)="onSelect($event)"></ejs-listview>
+    </div>
+  </ejs-sidebar>
+  <div class="main-content">
+      Before getting into any programming language, one should have basic knowledge about HTML, CSS, and JavaScript. These are the basic building blocks of web designing. HTML describes the structure of a web page whereas CSS describes the presentation of the web page.
+  </div>
+</div>
+
+<style>
+  .header {
+    text-align: center;
+    color: white;
+    background-color: midnightblue;
+    line-height: 51px;
+    font-size: 25px;
+  }
+
+  .main-content {
+      font-size: 18px;
+      /* text-align: center; */
+      padding-top: 50px;
+      padding-left: 30px;
+  }
+
+  .sidebar-content {
+    font-size: 25px;
+    /* text-align: center; */
+    /* padding-top: 50px; */
+  }
+
+  /* .e-sidebar{
+    background-color: #f8f8f8;
+  } */
+
+  .e-sidebar.e-left,  .e-sidebar.e-right {
+      top: 60px;
+  }
+
+  .e-btn .e-btn-icon{
+    font-size: 15px;
+  }
+
+  .customBtn {
+    color: white;
+    font-size: 20px;
+    background-color: midnightblue;
+    border-color: midnightblue;
+    margin-left: 10px; 
+  }
+</style>
+  
