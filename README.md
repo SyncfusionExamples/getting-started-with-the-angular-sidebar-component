@@ -41,7 +41,7 @@ Bind custom actions to any element (hamburger menu or buttons) to toggle the sid
 
 [Documentation](https://ej2.syncfusion.com/angular/documentation/sidebar/getting-started?utm_source=github&utm_medium=listing&utm_campaign=angular-sidebar-github-samples)
 
-[View Demos](https://github.com/SyncfusionExamples/getting-started-with-the-angular-sidebar-component?utm_source=github&utm_medium=listing&utm_campaign=angular-context-menu-github-samples)
+[View Demos](https://github.com/SyncfusionExamples/getting-started-with-the-angular-sidebar-component?utm_source=github&utm_medium=listing&utm_campaign=angular-sidebar-github-samples)
 
 [Community Forums](https://www.syncfusion.com/forums/angular-js2?utm_source=github&utm_medium=listing&utm_campaign=angular-sidebar-github-samples)
 
