@@ -22,7 +22,7 @@ The Angular Sidebar control positions its content to the left or right side of t
 
 ### Dock the HTML slide panel content
 
-When you [dock](https://ej2.syncfusion.com/angular/documentation/sidebar/docking-sidebar) the side content to give the main content more space, the navigation text is represented as a shortened view of icons.
+When you [dock](https://ej2.syncfusion.com/angular/documentation/sidebar/docking-sidebar?utm_source=github&utm_medium=listing&utm_campaign=angular-sidebar-github-samples) the side content to give the main content more space, the navigation text is represented as a shortened view of icons.
 
 ### Toggle sidebar menu
 
@@ -30,7 +30,7 @@ Bind custom actions to any element (hamburger menu or buttons) to toggle the sid
 
 ### Responsive sidebar
 
-[Auto closing](https://ej2.syncfusion.com/angular/documentation/sidebar/auto-close) the Sidebar component’s content allows the main content area to be more readable.
+[Auto closing](https://ej2.syncfusion.com/angular/documentation/sidebar/auto-close?utm_source=github&utm_medium=listing&utm_campaign=angular-sidebar-github-samples) the Sidebar component’s content allows the main content area to be more readable.
 
 ## Related links
 [Learn More about Angular Sidebar](https://www.syncfusion.com/angular-components/angular-sidebar?utm_source=github&utm_medium=listing&utm_campaign=angular-sidebar-github-samples)
@@ -51,7 +51,7 @@ Bind custom actions to any element (hamburger menu or buttons) to toggle the sid
 
 ## About Syncfusion Angular UI Components
 
-Syncfusion's Angular UI Components library is the only suite that you will ever need to build an application since it contains over 80 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to Sidebar, we provide popular Angular Components such as [DataGrid](https://www.syncfusion.com/angular-components/angular-grid?utm_source=github&utm_medium=listing&utm_campaign=angular-sidebar-github-samples), [Charts](https://www.syncfusion.com/angular-components/angular-charts?utm_source=github&utm_medium=listing&utm_campaign=angular-sidebar-github-samples), [Scheduler](https://www.syncfusion.com/angular-components/angular-scheduler?utm_source=github&utm_medium=listing&utm_campaign=angular-sidebar-github-samples), [Diagram](https://www.syncfusion.com/angular-components/angular-diagram?utm_source=github&utm_medium=listing&utm_campaign=angular-sidebar-github-samples), and [Word Processor](https://www.syncfusion.com/angular-components/angular-word-processor?utm_source=github&utm_medium=listing&utm_campaign=angular-sidebar-github-samples).
+Syncfusion's [Angular UI Components](https://www.syncfusion.com/angular-components?utm_source=github&utm_medium=listing&utm_campaign=angular-sidebar-github-samples) library is the only suite that you will ever need to build an application since it contains over 80 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to Sidebar, we provide popular Angular Components such as [DataGrid](https://www.syncfusion.com/angular-components/angular-grid?utm_source=github&utm_medium=listing&utm_campaign=angular-sidebar-github-samples), [Charts](https://www.syncfusion.com/angular-components/angular-charts?utm_source=github&utm_medium=listing&utm_campaign=angular-sidebar-github-samples), [Scheduler](https://www.syncfusion.com/angular-components/angular-scheduler?utm_source=github&utm_medium=listing&utm_campaign=angular-sidebar-github-samples), [Diagram](https://www.syncfusion.com/angular-components/angular-diagram?utm_source=github&utm_medium=listing&utm_campaign=angular-sidebar-github-samples), and [Word Processor](https://www.syncfusion.com/angular-components/angular-word-processor?utm_source=github&utm_medium=listing&utm_campaign=angular-sidebar-github-samples).
 
 ### About Syncfusion
 
